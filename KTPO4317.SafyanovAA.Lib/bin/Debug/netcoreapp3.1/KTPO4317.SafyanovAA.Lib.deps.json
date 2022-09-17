@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KTPO4317.SafyanovAA.Lib/1.0.0": {
+        "runtime": {
+          "KTPO4317.SafyanovAA.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTPO4317.SafyanovAA.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

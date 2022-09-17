@@ -1,0 +1,10 @@
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\bin\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.deps.json
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\bin\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.dll
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\bin\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.pdb
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.csproj.AssemblyReference.cache
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.AssemblyInfoInputs.cache
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.AssemblyInfo.cs
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.csproj.CoreCompileInputs.cache
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.dll
+C:\Users\FishtinNote\Desktop\KTPO\KTPO4317.SafyanovAA\KTPO4317.SafyanovAA.Lib\obj\Debug\netcoreapp3.1\KTPO4317.SafyanovAA.Lib.pdb

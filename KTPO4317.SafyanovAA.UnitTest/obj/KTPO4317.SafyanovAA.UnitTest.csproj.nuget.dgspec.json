@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.UnitTest\\KTPO4317.SafyanovAA.UnitTest.csproj": {}
+  },
+  "projects": {
+    "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\KTPO4317.SafyanovAA.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\KTPO4317.SafyanovAA.Lib.csproj",
+        "projectName": "KTPO4317.SafyanovAA.Lib",
+        "projectPath": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\KTPO4317.SafyanovAA.Lib.csproj",
+        "packagesPath": "C:\\Users\\Fishtin\\.nuget\\packages\\",
+        "outputPath": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\cash\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fishtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.UnitTest\\KTPO4317.SafyanovAA.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.UnitTest\\KTPO4317.SafyanovAA.UnitTest.csproj",
+        "projectName": "KTPO4317.SafyanovAA.UnitTest",
+        "projectPath": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.UnitTest\\KTPO4317.SafyanovAA.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Fishtin\\.nuget\\packages\\",
+        "outputPath": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\cash\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fishtin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\KTPO4317.SafyanovAA.Lib.csproj": {
+                "projectPath": "F:\\3Kurs\\KTPO\\KTPO4317.SafyanovAA\\KTPO4317.SafyanovAA.Lib\\KTPO4317.SafyanovAA.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

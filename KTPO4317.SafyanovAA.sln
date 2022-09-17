@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4317.SafyanovAA.UnitTest", "KTPO4317.SafyanovAA.UnitTest\KTPO4317.SafyanovAA.UnitTest.csproj", "{5E6A71D6-18E6-4A61-B4E5-FCF2DA19ECC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4317.SafyanovAA.Lib", "KTPO4317.SafyanovAA.Lib\KTPO4317.SafyanovAA.Lib.csproj", "{7D42D721-80D0-4FE9-8EC5-4F750EE345BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E6A71D6-18E6-4A61-B4E5-FCF2DA19ECC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6A71D6-18E6-4A61-B4E5-FCF2DA19ECC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6A71D6-18E6-4A61-B4E5-FCF2DA19ECC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6A71D6-18E6-4A61-B4E5-FCF2DA19ECC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D42D721-80D0-4FE9-8EC5-4F750EE345BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D42D721-80D0-4FE9-8EC5-4F750EE345BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D42D721-80D0-4FE9-8EC5-4F750EE345BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D42D721-80D0-4FE9-8EC5-4F750EE345BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101D416D-4D5B-43A2-A8B8-3430E955AD6C}
+	EndGlobalSection
+EndGlobal
